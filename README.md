@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- Name: -->
+<h1 aling="left">
+  Isaque Scheidegger
+</h1>
 
-<!--
-**IsaqueScheidegger/IsaqueScheidegger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Description: -->
+<ul>
+<li>🌱 Improving at Java | Springboot</li>
+</ul>
 
-Here are some ideas to get you started:
+<!-- Contact: -->
+<div align="left"> 
+  <a href="mailto:isaquescheidegger@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/isaque-scheidegger-a83981291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills Icons: -->
+<h2 align="left">Skills:</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,git,html,css,javascript" />
+</div>
