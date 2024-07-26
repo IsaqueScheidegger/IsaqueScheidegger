@@ -22,5 +22,5 @@
 <h2 align="left">Skills:</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,mongodb,mysql,git,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,javascript" />
 </div>
