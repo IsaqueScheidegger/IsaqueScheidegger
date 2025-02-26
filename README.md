@@ -1,14 +1,11 @@
-<!-- Name: -->
 <h1 aling="left">
-  Isaque Scheidegger
+  Isaque Ferreira
 </h1>
 
-<!-- Description: -->
 <ul>
 <li>🌱 Improving at Java | Springboot</li>
 </ul>
 
-<!-- Contact: -->
 <div align="left"> 
   <a href="mailto:isaquescheidegger@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -18,9 +15,8 @@
   </a>
 </div>
 
-<!-- Skills Icons: -->
 <h2 align="left">Skills:</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,git,html,css,javascript" />
 </div>
